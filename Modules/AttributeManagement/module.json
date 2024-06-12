@@ -1,0 +1,13 @@
+{
+    "name": "AttributeManagement",
+    "alias": "attributemanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AttributeManagement\\Providers\\AttributeManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

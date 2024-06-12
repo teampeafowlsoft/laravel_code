@@ -1,0 +1,13 @@
+{
+    "name": "ProductManagement",
+    "alias": "productmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProductManagement\\Providers\\ProductManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

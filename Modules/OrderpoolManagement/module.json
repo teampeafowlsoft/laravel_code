@@ -1,0 +1,13 @@
+{
+    "name": "OrderpoolManagement",
+    "alias": "orderpoolmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\OrderpoolManagement\\Providers\\OrderpoolManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

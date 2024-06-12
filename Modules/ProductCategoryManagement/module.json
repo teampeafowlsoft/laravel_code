@@ -1,0 +1,13 @@
+{
+    "name": "ProductCategoryManagement",
+    "alias": "productcategorymanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProductCategoryManagement\\Providers\\ProductCategoryManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
